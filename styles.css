@@ -1,0 +1,30 @@
+.banner {
+    background-color: black;
+    color: red;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .choices {
+    width: 100%;
+  }
+  
+  .button-box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #73AD21;
+    display: inline-block;
+    vertical-align:middle;
+  }
+  
+  .rock, .paper, .scissors {
+    position: relative;
+    height:200px;
+    width: 200px;
+  }
+  
+  .results-banner {
+    background-color:black;
+    color: red;
+    text-align: center;
+  }
